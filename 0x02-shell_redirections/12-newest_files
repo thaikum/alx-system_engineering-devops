@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lt | head -n 11| tail | cut -d ' ' -f 9
+ls -1t | head
